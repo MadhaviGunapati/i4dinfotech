@@ -1,0 +1,60 @@
+body{
+
+}
+#logo_link{
+
+}
+.my-header{
+  box-shadow: 0 .2rem .7rem .1rem #888888;
+
+}
+.carousel-class{
+ width: 80%;
+
+}
+.px-0{
+  padding: 1.2rem 0 1.2rem 0;
+}
+.m{
+  margin: auto;
+}
+.m-1{
+  margin: .5rem;
+}
+#logo-style{
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-style: oblique;
+  color:rgb(0, 0, 255);
+
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  transform: rotateX(45);
+}
+.my-form{
+  width:35%;
+  margin: 2%;
+  }
+  .my-form-field{
+    display:form-inline;
+  }
+#subject{
+  resize: none;
+}
+.ml{
+  margin-left: 10px;
+}
+.footer{
+  clear: both;
+  float: right;
+}
+.p-text{
+text-align: justify;
+}
+#e-name, #e-email, #e-subject{
+color: rgba(255, 0, 0, 0.5);
+display: none;
+}
+#map {
+        height: 400px;
+        width: 100%;
+       }
